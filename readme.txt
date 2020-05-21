@@ -6,4 +6,3 @@ Run the follwing scripts (in cmd) in this order:
 
 kill the worker5.py before it completes the work so master does reassigning.
 Worker3 would be a straggler worker.
-folder 'executed_data' are all the output/logging files that ran on my machine.
