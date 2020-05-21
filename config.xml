@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+
+
+	<heartbeat_interval>6</heartbeat_interval>
+	<timeout_interval>8</timeout_interval>
+	<max_heartbeats>3</max_heartbeats>
+	
+
+	<Worker_IPs>
+		<ip_address>127.0.0.2</ip_address>
+		<ip_address>127.0.0.3</ip_address>
+		<ip_address>127.0.0.4</ip_address>
+		<ip_address>127.0.0.5</ip_address>
+		<ip_address>127.0.0.6</ip_address>
+	</Worker_IPs>
+
+	<HeartBeat_IPs>
+		<ip_address>127.0.0.7</ip_address>
+		<ip_address>127.0.0.8</ip_address>
+		<ip_address>127.0.0.9</ip_address>
+		<ip_address>127.0.0.10</ip_address>
+		<ip_address>127.0.0.11</ip_address>
+	</HeartBeat_IPs>
+
+	<RPC_Server_IPs>
+		<ip_address>127.0.0.2</ip_address>
+		<ip_address>127.0.0.3</ip_address>
+		<ip_address>127.0.0.4</ip_address>
+		<ip_address>127.0.0.5</ip_address>
+		<ip_address>127.0.0.6</ip_address>
+	</RPC_Server_IPs>
+
+	<chunk_offsets>
+		<chunk>0</chunk>
+		<chunk>50000</chunk>
+		<chunk>300000</chunk>
+		<chunk>400000</chunk>
+		<chunk>800000</chunk>
+	</chunk_offsets>
+
+	<chunk_lengths>
+		<chunk>50000</chunk>
+		<chunk>250000</chunk>
+		<chunk>100000</chunk>
+		<chunk>400000</chunk>
+		<chunk>75000</chunk>
+	</chunk_lengths>
+
+
+
+
+</root>
