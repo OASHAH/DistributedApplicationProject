@@ -1,2 +1,4 @@
 # DistributedApplicationProject
-Created a fault tolerant distributed Application.
+A fault tolerant distributed Application.
+
+
